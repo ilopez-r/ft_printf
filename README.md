@@ -1,7 +1,7 @@
-![image](https://raw.githubusercontent.com/ilopez-r/badges/main/covers/cover-ft_printf-bonus.png?token=GHSAT0AAAAAACVW47MTGRVD3UXLF6XC4VFQZVQ5SOQ)
+![image](https://raw.githubusercontent.com/ilopez-r/resources/main/covers/cover-ft_printf-bonus.png)
 
 ## Subject
-This is the [subject]() for this project.
+This is the [subject](https://github.com/ilopez-r/resources/blob/main/subjects/01_ft_printf_en.pdf) for this project.
 
 <h2> Introduction </h2> 
  
