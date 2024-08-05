@@ -43,25 +43,6 @@ The ft_printf function supports various flags and modifiers to customize the out
 <br/>
 One of the key aspects of ft_printf is its ability to handle variadic arguments. By utilizing the stdarg.h header and the va_list type, you can process a variable number of arguments passed to the function. This flexibility enables you to handle different types of data and dynamically generate the output based on the provided format specifiers.
 
-<h2> Installation and Usage </h2>
-<br/>
-To use ft_printf in your project, follow these steps:
-
-Clone the repository: 
-
-                           git clone https://github.com/your_username/42-ft_printf.git
-Navigate to the project directory: 
-
-						cd 42-ft_printf
-
-Compile the ft_printf library: 
-
-						 make
-Use the ft_printf executable to execute the programme standard output stream: 
-
-						./ft_printf
-Refer to the project's documentation and code files for more detailed information and examples of how to use the ft_printf function effectively.
-
 <h2> How it Works </h2>
 <br/>
 The ft_printf function follows a systematic process to handle the provided format string and corresponding arguments:
